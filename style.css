@@ -1,0 +1,50 @@
+
+html{
+    font-family: "Josefin Sans";
+    background-color: #F5EDED;
+}
+
+h1{
+    color: #6482AD;
+}
+
+h2{
+    font-size: rem;
+    text-transform: uppercase;
+    color: #7FA1C3;   
+}
+
+img{
+    border-radius: 50%;
+}
+
+.chapter{
+    background-color: #E2DAD6;
+    border: solid 1px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+ul, ol {
+    list-style-position: inside;
+    padding-left: 0;
+    text-align: center;
+}
+
+.skills{
+    font-weight: bold;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+#title{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.link{
+    color: blue;
+    text-decoration: none;
+}
